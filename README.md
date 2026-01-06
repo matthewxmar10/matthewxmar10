@@ -1,4 +1,4 @@
 - 👋 howdy, my name's matthew
 - 👀 interested in esports, content creation, music, and learning new skills
 - 🌱 currently learning Python + JavaScript
-- 📫 How to reach me - Discord: matthew1pg, email: matthewxmar10@gmail.com
+- 📫 how to reach me - Discord: matthew1pg, email: matthewxmar10@gmail.com
