@@ -1,5 +1,4 @@
-- 👋 Hi, my name's Matthew Martin!
-- 👀 I’m interested in esports, content creation, music, and learning new skills.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on any and all programming projects!
-- 📫 How to reach me - Discord: ISO#0003, Email: matthewxmar10@gmail.com
+- 👋 howdy, my name's matthew
+- 👀 interested in esports, content creation, music, and learning new skills
+- 🌱 currently learning Python + JavaScript
+- 📫 How to reach me - Discord: matthew1pg, email: matthewxmar10@gmail.com
